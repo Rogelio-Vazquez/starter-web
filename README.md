@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-Whatever is now modified::::::::::::::::::
+Whatever is now modified:::::::::::::::::: #################################
 
 ###Copyright
 
