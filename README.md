@@ -12,4 +12,4 @@ Whatever is now modified:::::::::::::::::: #################################
 
 ###Copyright
 
-Git Training 20078
+Git Training 20078. All rights reserverd.
